@@ -1,8 +1,8 @@
 # Leetcode CPH Project
 
-## Overview
+## Outline
 
-This VS Code extension allows users to fetch test cases for LeetCode problems directly from their VS Code environment. It also provides a feature to run the test cases against your code and get feedback. The extension automates the process of extracting input and output test cases from LeetCode problem pages and provides an easy-to-use interface for fetching and running test cases.
+This VS Code extension enables users to retrieve test cases for LeetCode problems directly within their editor, run those test cases on their code, and receive feedback. It streamlines the process of gathering input and output test cases from LeetCode problem pages while offering a user-friendly interface for managing and executing them.
 
 ## Features
 
