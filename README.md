@@ -6,14 +6,14 @@ This VS Code extension enables users to retrieve test cases for LeetCode problem
 
 ## Features
 
-- **Fetch Test Cases**: Automatically retrieves test cases (input and output) from a given LeetCode problem URL.
-- **Run Test Cases**: Allows users to run the fetched test cases against their code and shows the results.
-- **Organized Test Case Files**: Saves the fetched test cases in a folder named `testCase` within the project directory.
+- **Test Cases Structured Storage**: It saves the retrievd test cases in a folder named `testCase` within the project directory.
+- **Automatic Retrieval Of Test Cases**: It extracts test cases including both input and output from a given URL(Leetcode Problem).
+- **Run On Test Cases**: It allows user to run the extracted test cases for their code and shows the result.
 
 ## Requirements
 
-- Node.js (v12.x or later)
 - VS Code (v1.60 or later)
+- Node.js (v12.x or later)
 
 ## Installation
 
